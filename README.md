@@ -1,5 +1,5 @@
-# bayesian-nets
-Bayesian networks
+# Bayesian networks
+> Bayesian network is a probabilistic graphical model (a type of statistical model) that represents a set of variables and their conditional dependencies via a directed acyclic graph (DAG) ([Wiki](https://en.wikipedia.org/wiki/Bayesian_network)
 
 - **Overview**
   - [Introducing Bayesian Networks](https://bayesian-intelligence.com/publications/bai/book/BAI_Chapter2.pdf) (2004) - free chapter from the [Bayesian Artificial Intelligence](https://bayesian-intelligence.com/publications/bai/) book *Kevin B. Korb, Ann E. Nicholson*
