@@ -16,6 +16,10 @@
   - Bayesian networks with variables that have different distributions
   - [Graphical Models for Associations between Variables, some of which are Qualitative and some Quantitative](https://projecteuclid.org/euclid.aos/1176347003) (1989) *S. L. Lauritzen, N. Wermuth*
   - [Copula Bayesian Networks](https://papers.nips.cc/paper/3956-copula-bayesian-networks.pdf) (2010) *Gal Elidan*
+- **Dynamic Bayesian Networks**
+  - Relates variables to each other over some time steps
+  - [Dynamic Network Models for Forecasting](http://erichorvitz.com/dynamic_network_models_UAI_1992.pdf) (1992) *Paul Dagum, Adam Galper, Eric Horvitz*
+  - [Dynamic Bayesian Networks: Representation, Inference and Learning](https://www.cs.ubc.ca/~murphyk/Thesis/thesis.pdf) (2002) *Kevin Patrick Murphy*
 
 ### Structure learning
 Learning the graph structure that represents the conditional independencies between variables. Main approaches are *constraint-based* (conditional independence tests) and *score-based* (goodness-of-fit scores)
